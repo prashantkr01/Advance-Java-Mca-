@@ -13,3 +13,4 @@ public class questr {
     List<Character> grace=list.stream().map(x->x.charAt(0)).toList();
     System.out.println(grace);
 }
+}
